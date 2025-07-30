@@ -19,8 +19,8 @@ flipkart-clone/
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [Click Here]([https://your-frontend.vercel.app](https://flipkart-clone-frontend-cybersumans-projects.vercel.app/))
-- **Backend (Render):** [Click Here]([https://your-backend.onrender.com](https://flipkart-clone-backend-h432.onrender.com))
+- **Frontend (Vercel):** [Click Here]([https://flipkart-clone-frontend-cybersumans-projects.vercel.app])
+- **Backend (Render):** [Click Here]([https://flipkart-clone-backend-h432.onrender.com])
 
 > ⚠️ Replace the above URLs with your actual Vercel and Render links.
 
