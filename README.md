@@ -19,8 +19,8 @@ flipkart-clone/
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [Click Here](https://your-frontend.vercel.app)
-- **Backend (Render):** [Click Here](https://your-backend.onrender.com)
+- **Frontend (Vercel):** [Click Here]([https://your-frontend.vercel.app](https://flipkart-clone-frontend-cybersumans-projects.vercel.app/))
+- **Backend (Render):** [Click Here]([https://your-backend.onrender.com](https://flipkart-clone-backend-h432.onrender.com))
 
 > ⚠️ Replace the above URLs with your actual Vercel and Render links.
 
@@ -31,7 +31,7 @@ flipkart-clone/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Flipkart-Clone.git
+git clone https://github.com/Cyb3r5uman/Flipkart-Clone.git
 cd Flipkart-Clone
 ```
 
@@ -61,9 +61,8 @@ npm start
 
 ### For Backend (`backend/.env`)
 ```env
-MONGODB_URL=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-PORT=5000
+MONGODB_URL=mongodb+srv://patrasuman44:jayhind@clusterforflipkatbacken.rilorms.mongodb.net/
+
 ```
 
 > Make sure to **create this `.env` file** inside the `backend` folder.
